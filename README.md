@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Henrique Motta
 
-**`Desenvolvedor de sistemas embarcados`**
+**`Desenvolvedor De Sistemas Embarcados`**
 ---
 
 ### Sobre Mim 
