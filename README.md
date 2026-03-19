@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Henrique Motta
+# 👨‍💻 Henrique Motta
 
 **`Desenvolvedor De Sistemas Embarcados`**
 ---
