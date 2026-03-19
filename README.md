@@ -3,6 +3,11 @@
 **`Desenvolvedor`**
 ---
 
+### Sobre Mim 
+Olá, sou o Henrique e nesse perfil quero monstrar alguns dos meus projetos na área de desenvolvimento de sistemas. Atualmente acredito que seguirei para a área de desenvolvimento de sistemas embarcados, mas aqui terá de tudo, Back-End, Front-End, Banco de dados etc. Espero que gostem ! Se puder dar o feedback em algum deles, será bem vindo. Obrigado
+
+<br/>
+
 ### 🤖 Linguagens e Tecnologias
 
 ### 💻 Front-end
