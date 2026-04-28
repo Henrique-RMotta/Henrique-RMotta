@@ -1,31 +1,28 @@
 name: GitHub 3D Contributions
- 
+
 on:
   schedule:
-    - cron: "0 0 * * *" # Roda todo dia à meia-noite
-  workflow_dispatch: # Permite rodar manualmente
- 
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
 jobs:
   build:
     runs-on: ubuntu-latest
     name: Generate 3D Contributions
- 
+
     steps:
-      - uses: actions/checkout@v3
- 
-      - uses: yoshi-isle/github-profile-3d-contrib@v1.5.4
+      - uses: actions/checkout@v4
+
+      - name: Generate 3D Contribution Stats
+        uses: cicirello/generate-3d-contribution-stats@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          username: Henrique-RMotta
-          max_repos: 10
- 
-      - name: Push to branch
-        uses: crazy-max/ghaction-github-pages@v3
+          background-color: "#0d1117"
+          foreground-color: "#00979D"
+
+      - name: Commit and push
+        uses: EndBug/add-and-commit@v9
         with:
-          target_branch: main
-          build_dir: profile-3d-contrib
-          keep_history: true
-          commit_message: "chore: update 3d contribution graph"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          message: "chore: update 3d contribution graph"
+          add: "*.svg"
