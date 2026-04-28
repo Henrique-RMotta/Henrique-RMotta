@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00979D&width=600&lines=Henrique+Motta;Embedded+Systems+Developer;IoT+%7C+Arduino+%7C+Raspberry+Pi)](https://git.io/typing-svg)
 
 <p align="left">
-  <a href="www.linkedin.com/in/henrique-motta-04747034a">
+  <a href="https://www.linkedin.com/in/henrique-motta-04747034a">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:henrique2008790@gmail.com">
@@ -55,7 +55,7 @@ Feedbacks são sempre bem-vindos em qualquer projeto. Obrigado pela visita! 😉
 
 ### 📊 Estatísticas
 
-<p align="left">
+<div align="center">
   <img 
     height="180" 
     src="https://github-readme-stats.vercel.app/api?username=Henrique-RMotta&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true" 
@@ -66,15 +66,11 @@ Feedbacks são sempre bem-vindos em qualquer projeto. Obrigado pela visita! 😉
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-RMotta&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true" 
     alt="Top Langs"
   />
-</p>
-<p align="left">
+  <br/>
   <img 
     height="180" 
     src="https://streak-stats.demolab.com?user=Henrique-RMotta&theme=tokyonight&locale=pt_BR&hide_border=true" 
     alt="GitHub Streak"
   />
-</p>
-
----
-
-![Metrics](https://github.com/Henrique-RMotta/Henrique-RMotta/blob/main/github-metrics.svg)
+  <br/>
+</div>
