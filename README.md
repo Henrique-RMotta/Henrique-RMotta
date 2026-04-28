@@ -77,3 +77,4 @@ Feedbacks são sempre bem-vindos em qualquer projeto. Obrigado pela visita! 😉
 
 ---
 
+![Metrics](https://github.com/Henrique-RMotta/Henrique-RMotta/blob/main/github-metrics.svg)
