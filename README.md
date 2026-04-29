@@ -39,6 +39,7 @@ Feedbacks são sempre bem-vindos em qualquer projeto. Obrigado pela visita! 😉
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi">
+  <img src="https://img.shields.io/badge/ESP32-323330?style=for-the-badge&logo=espressif&logoColor=white" alt="Esp 32">
 </div>
 
 #### 💻 Front-end
@@ -61,6 +62,12 @@ Feedbacks são sempre bem-vindos em qualquer projeto. Obrigado pela visita! 😉
 <div>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+</div>
+
+#### 📱 Mobile
+<div>
+ <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
 </div>
 
 ---
