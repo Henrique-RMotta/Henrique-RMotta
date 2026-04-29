@@ -78,10 +78,4 @@ Feedbacks são sempre bem-vindos em qualquer projeto. Obrigado pela visita! 😉
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-RMotta&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true" 
     alt="Top Langs"
   />
-  <br/>
-  <img 
-    height="180" 
-    src="https://streak-stats.demolab.com?user=Henrique-RMotta&theme=tokyonight&locale=pt_BR&hide_border=true" 
-    alt="GitHub Streak"
-  />
 </div>
