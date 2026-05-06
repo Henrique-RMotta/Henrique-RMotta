@@ -12,7 +12,7 @@
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/henrique-motta-04747034a](https://www.linkedin.com/in/henrique-rodrigues-motta-04747034a/">
+  <a href="https://www.linkedin.com/in/henrique-rodrigues-motta-04747034a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   &nbsp;
@@ -26,7 +26,7 @@
 
 ### 👨‍💻 Sobre Mim
 
-Olá! Sou o Henrique, desenvolvedor com foco em **sistemas embarcados** e entusiasta de tecnologia em geral. Aqui você vai encontrar projetos que vão desde **IoT e hardware** até **back-end e front-end** — reflexo de uma jornada de aprendizado contínuo.
+Olá! Sou o Henrique, desenvolvedor com foco em **sistemas embarcados** e entusiasta de tecnologia em geral. Aqui você vai encontrar projetos que vão desde **IoT e hardware** até **back-end e front-end**.
 
 Feedbacks são sempre bem-vindos em qualquer projeto. Obrigado pela visita! 😉
 
